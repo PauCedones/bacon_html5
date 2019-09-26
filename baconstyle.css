@@ -1,3 +1,44 @@
-body
-{background: pink;
+body {
+background-image:url(descarga.jpg);
 }
+
+article{
+    background-color: white;
+    float:left;
+    width:35%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 1%;
+    box-shadow: 5px 5px 25px 5px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 150%;
+}
+aside{
+    background-color:white;
+    float:right;
+    width: 10%;
+    padding:1%;
+    margin-right: 20px;
+    box-shadow: 5px 5px 25px 5px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+footer{
+    text-align: center;
+    clear: both;
+    background-color: black;
+    color: white;
+    padding:15px;
+    position:absolute;
+    bottom:0;
+    width: 98%;
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+
